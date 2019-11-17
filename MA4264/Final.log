@@ -1,0 +1,512 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.12)  4 MAY 2019 11:27
+entering extended mode
+**C:/Users/mhq19/Desktop/Notes/__Revision*Notes/MA4264/Final.tex
+("C:/Users/mhq19/Desktop/Notes/__Revision Notes/MA4264/Final.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen113
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(C:\CTEX\MiKTeX\tex\latex\framed\framed.sty
+Package: framed 2007/10/04 v 0.95: framed or shaded text with page breaks
+\fb@frw=\dimen122
+\fb@frh=\dimen123
+\FrameRule=\dimen124
+\FrameSep=\dimen125
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks21
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks27
+)
+(C:\CTEX\MiKTeX\tex\latex\tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(C:\CTEX\MiKTeX\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen128
+\enit@toks=\toks28
+\enit@inbox=\box28
+\enitdp@description=\count103
+)
+\c@definition=\count104
+\c@theorem=\count105
+\c@notation=\count106
+
+("C:\Users\mhq19\Desktop\Notes\__Revision Notes\MA4264\Final.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(7.22743pt, 599.84013pt, 7.22743pt)
+* v-part:(T,H,B)=(7.22743pt, 780.51512pt, 7.22743pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=599.84013pt
+* \textheight=780.51512pt
+* \oddsidemargin=-65.04256pt
+* \evensidemargin=-65.04256pt
+* \topmargin=-102.04256pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen129
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen130
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks30
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+ (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+("C:\Users\mhq19\Desktop\Notes\__Revision Notes\MA4264\Final.toc")
+\tf@toc=\write3
+ [1
+
+{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+Overfull \hbox (13.64851pt too wide) in paragraph at lines 54--56
+\OT1/cmr/bx/n/12 Definition 1.1 \OT1/cmr/m/n/12 (Nor-mal For-m Rep-re-sen-ta-ti
+on)\OT1/cmr/bx/n/12 . \OT1/cmr/m/n/12 The normal-
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
+(C:\CTEX\MiKTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+
+Overfull \hbox (10.0527pt too wide) in paragraph at lines 79--80
+\OT1/cmr/bx/n/12 Definition 1.4 \OT1/cmr/m/n/12 (Nash E-qui-lib-ri-um)\OT1/cmr/
+bx/n/12 . \OT1/cmr/m/n/12 In the $\OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 -player no
+rmal-
+ []
+
+
+Overfull \hbox (38.48792pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/12 um in an $\OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 -player normal-for
+m game $\OML/cmm/m/it/12 G \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12
+ S[]; [] ; S[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 u[]; [] ; u[]\OMS/cmsy/m/n/12 
+g$\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (0.72313pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/12 This im-plies: $\OMS/cmsy/m/n/12 f[]g  f[]g$\OT1/cmr/m/n/12 
+. 
+ []
+
+
+Overfull \hbox (7.05551pt too wide) in paragraph at lines 106--108
+\OT1/cmr/bx/n/12 Definition 1.5 \OT1/cmr/m/n/12 (Mixed S-trat-e-gy)\OT1/cmr/bx/
+n/12 . \OT1/cmr/m/n/12 In the normal-form game
+ []
+
+
+Overfull \hbox (1.98094pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/12 gies $(\OML/cmm/m/it/12 p[]; p[]\OT1/cmr/m/n/12 )$ are a \OT1/c
+mr/bx/n/12 Nash e-qui-lib-ri-um \OT1/cmr/m/n/12 if each play-er's mixed
+ []
+
+[2
+
+]
+Overfull \hbox (0.78723pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/12 Since it is com-plete-ly known to us the val-ue of $\OML/cmm/
+m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s[]; s[]\OT1/cmr/m/n/12 )$,
+ []
+
+
+Overfull \hbox (24.44917pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 In the $\OML/cmm/m/it/12 n$\OT1/cmr/m/n/12 -player normal-form 
+game $\OML/cmm/m/it/12 G \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 S
+[]; [] ; S[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 u[]; [] ; u[]\OMS/cmsy/m/n/12 g$
+\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (5.37683pt too wide) in paragraph at lines 152--153
+[]\OT1/cmr/m/n/12 (Perfect In-for-ma-tion) Al-l pre-vi-ous moves are ob-served
+ []
+
+
+Overfull \hbox (0.68105pt too wide) in paragraph at lines 153--154
+[]\OT1/cmr/m/n/12 (Complete In-for-ma-tion): Pay-off-s are com-mon knowl-
+ []
+
+<2-1.jpg, id=20, 385.2384pt x 259.44627pt>
+File: 2-1.jpg Graphic file (type jpg)
+ <use 2-1.jpg>
+Package pdftex.def Info: 2-1.jpg used on input line 159.
+(pdftex.def)             Requested size: 269.92622pt x 181.79324pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (7.6472pt too wide) in paragraph at lines 170--172
+\OT1/cmr/m/n/12 Assume it has a u-nique so-lu-tion $\OML/cmm/m/it/12 a[]$\OT1/c
+mr/m/n/12 , we cal-l $(\OML/cmm/m/it/12 a[]; R[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/
+12 a[]\OT1/cmr/m/n/12 ))$
+ []
+
+
+Overfull \hbox (0.52405pt too wide) in paragraph at lines 194--195
+[]\OT1/cmr/m/n/12 The pay-of-f re-ceived by each play-er for each com-
+ []
+
+[3 <C:/Users/mhq19/Desktop/Notes/__Revision Notes/MA4264/2-1.jpg>] [4]
+Overfull \hbox (13.89342pt too wide) in paragraph at lines 265--266
+[]\OT1/cmr/m/n/12 Here, the non-cooperative s-trat-e-gy in In-fi-nite Pris-on-e
+r Dilem-
+ []
+
+
+Overfull \hbox (18.08351pt too wide) in paragraph at lines 269--274
+\OT1/cmr/m/n/12 Games of \OT1/cmr/bx/n/12 in-com-plete in-for-ma-tion \OT1/cmr/
+m/n/12 are al-so called \OT1/cmr/bx/n/12 Bayesian
+ []
+
+
+Overfull \hbox (46.67621pt too wide) in paragraph at lines 269--274
+\OT1/cmr/m/n/12 In gen-er-al, let play-er $\OML/cmm/m/it/12 i$\OT1/cmr/m/n/12 '
+s pos-si-ble pay-of-f func-tion-s by $\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 a[]; [] ; a[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 t[]\OT1/cmr/m/n/12
+ )$
+ []
+
+
+Overfull \hbox (17.86284pt too wide) in paragraph at lines 275--277
+\OT1/cmr/bx/n/12 Definition 3.1 \OT1/cmr/m/n/12 (Nor-mal--for-m Rep-re-sen-ta-t
+ion)\OT1/cmr/bx/n/12 . \OT1/cmr/m/n/12 The \OT1/cmr/bx/n/12 normal-
+ []
+
+
+Overfull \hbox (84.93457pt too wide) in paragraph at lines 282--285
+\OT1/cmr/m/n/12 We de-note the game as $\OML/cmm/m/it/12 G \OT1/cmr/m/n/12 = \O
+MS/cmsy/m/n/12 f\OML/cmm/m/it/12 A[]; [] ; A[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/1
+2 T[]; [] ; T[]\OT1/cmr/m/n/12 ; \OML/cmm/m/it/12 P[]; [] ; P[]\OT1/cmr/m/n/12 
+; \OML/cmm/m/it/12 u[]; [] ; u[]\OMS/cmsy/m/n/12 g$\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (74.03555pt too wide) in paragraph at lines 324--327
+\OT1/cmr/m/n/12 In gen-er-al, such stat-ic Bayesian games are de-fined by $\OMS
+/cmsy/m/n/12 f\OML/cmm/m/it/12 G; P; \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 T[]; [] 
+; T[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g$\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (27.52771pt too wide) in paragraph at lines 327--328
+\OT1/cmr/m/n/12 tion s-paces $\OML/cmm/m/it/12 A[]$ \OT1/cmr/m/n/12 and pay-off
+-s $\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a\OT1/cmr/m/n/12 ; \O
+ML/cmm/m/it/12 g\OT1/cmr/m/n/12 )$ for $\OML/cmm/m/it/12 a \OT1/cmr/m/n/12 = (\
+OML/cmm/m/it/12 a[]; [] ; a[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ;  i \OT1/cmr/m/
+n/12 =$
+ []
+
+[5]
+Overfull \hbox (5.48738pt too wide) in paragraph at lines 364--365
+\OT1/cmr/bx/n/12 Theorem 3.3 \OT1/cmr/m/n/12 (Weak-ly Dom-i-nat-ing Lead-ing Ba
+yesian NE)\OT1/cmr/bx/n/12 .
+ []
+
+
+Overfull \hbox (12.1332pt too wide) in paragraph at lines 367--369
+\OT1/cmr/m/n/12 (i.e., $\OML/cmm/m/it/12 s[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t
+[]\OT1/cmr/m/n/12 )$ weak-ly dom-i-nates ev-ery $\OML/cmm/m/it/12 a[] \OMS/cmsy
+/m/n/12 2 \OML/cmm/m/it/12 A[]$\OT1/cmr/m/n/12 ), then $(\OML/cmm/m/it/12 s[]; 
+[] ; s[]\OT1/cmr/m/n/12 )$
+ []
+
+
+Overfull \hbox (33.54599pt too wide) in paragraph at lines 389--390
+[]\OT1/cmr/m/n/12 For each case, de-ter-mine the Nash E-qui-lib-ri-um(sequentia
+lly
+ []
+
+
+Overfull \hbox (13.64479pt too wide) in paragraph at lines 391--392
+[]\OT1/cmr/m/n/12 Check the op-ti-mal-i-ty ac-cord-ing to the be-lief(consisten
+t) 
+ []
+
+[6]
+Overfull \hbox (3.7096pt too wide) in paragraph at lines 403--404
+$\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 B\OT1/cmr/m/n/12 (\OML/cmm
+/m/it/12 []; e[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12  []\OML/cmm/m/it/12 B\OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 []; e[]\OT1/cmr/m/n/12 ) + []\OML/cmm/m/it/12 B\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 []; e[]\OT1/cmr/m/n/12 )$ hold-s, and $\OML/cm
+m/m/it/12 B\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 []; e[]\OT1/cmr/m/n/12 ) =$
+ []
+
+
+Overfull \hbox (3.71153pt too wide) in paragraph at lines 431--433
+\OT1/cmr/m/n/12 If $(\OML/cmm/m/it/12 H; d\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; \
+OT1/cmr/m/n/12 (\OML/cmm/m/it/12 H[]; d[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 2 \
+OML/cmm/m/it/12 W; d \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 d[]; H \OMS/cmsy/m/n/12
+  \OML/cmm/m/it/12 H[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 H[]; d[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 2$
+ []
+
+
+Overfull \hbox (5.20898pt too wide) in paragraph at lines 459--461
+\OT1/cmr/bx/n/12 Definition 5.5 \OT1/cmr/m/n/12 (Im-pu-ta-tion)\OT1/cmr/bx/n/12
+ . \OT1/cmr/m/n/12 An \OT1/cmr/bx/n/12 im-pu-ta-tion \OT1/cmr/m/n/12 in the gam
+e
+ []
+
+[7]
+Overfull \hbox (10.12901pt too wide) in paragraph at lines 514--515
+\OT1/cmr/bx/n/12 Theorem 5.7. \OT1/cmr/m/n/12 If game $(\OML/cmm/m/it/12 N; v\O
+T1/cmr/m/n/12 )$ is both es-sen-tial and constant-
+ []
+
+
+Overfull \hbox (9.43878pt too wide) in paragraph at lines 554--555
+[]\OT1/cmr/m/n/12 Efficiency: The to-tal gain is dis-tribut-ed: $[][] \OML/cmm/
+m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 v\OT1/cmr/m/n/12 ) =$
+ []
+
+[8] ("C:\Users\mhq19\Desktop\Notes\__Revision Notes\MA4264\Final.aux") ) 
+Here is how much of TeX's memory you used:
+ 3194 strings out of 495354
+ 40809 string characters out of 3183859
+ 114104 words of memory out of 3000000
+ 6310 multiletter control sequences out of 15000+200000
+ 18025 words of font info for 66 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,10n,32p,563b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbxti10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
+12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Final.pdf (8 pages, 255528 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
